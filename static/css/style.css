@@ -1,0 +1,21 @@
+.fruits{
+    border: 2px solid #32e816;
+    background-color: #e715dc;
+    text-align: center;
+    font-size: 20px;
+    color: wheat;
+    padding: 20px;
+    margin: 20px;
+
+}
+.mycontainer{
+    width: 100%;
+    overflow: auto;
+}
+.mycontainer div{
+    width: 33%;
+    float: left;
+}
+#computers{
+
+}
